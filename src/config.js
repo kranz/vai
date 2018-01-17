@@ -44,17 +44,17 @@ module.exports = {
 
     // https://developers.facebook.com/
     facebook: {
-      id: process.env.FACEBOOK_APP_ID || '186244551745631',
+      id: process.env.FACEBOOK_APP_ID || '1783261238641839',
       secret:
-        process.env.FACEBOOK_APP_SECRET || 'a970ae3240ab4b9b8aae0f9f0661c6fc',
+        process.env.FACEBOOK_APP_SECRET || 'f8f6209c4b94f5636946926066edfa61',
     },
 
     // https://cloud.google.com/console/project
     google: {
       id:
         process.env.GOOGLE_CLIENT_ID ||
-        '251410730550-ahcg0ou5mgfhl8hlui1urru7jn5s12km.apps.googleusercontent.com',
-      secret: process.env.GOOGLE_CLIENT_SECRET || 'Y8yR9yZAhm9jQ8FKAL8QIEcd',
+        '845469113173-d74tao2u6b43js0dqueke8lvq5kblitk.apps.googleusercontent.com',
+      secret: process.env.GOOGLE_CLIENT_SECRET || 'tkbKJfbyyCuIFNjH1UO9nHQ_',
     },
 
     // https://apps.twitter.com/
